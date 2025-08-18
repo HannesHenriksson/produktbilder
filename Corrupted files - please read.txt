@@ -1,7 +1,0 @@
-Corrupted files
-
-The following files were found to be corrupted in transit:
-
-	- 8058-0400_left-LowRes.jpg
-
-Do NOT try to use these files. Your ZIP-program should also warn you about this.
